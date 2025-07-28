@@ -1,0 +1,13 @@
+.box {
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+/* Apply to <dt> tag globally in this module */
+dt {
+  font-weight: 500;
+}
